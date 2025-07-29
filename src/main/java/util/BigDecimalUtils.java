@@ -9,9 +9,8 @@ import java.math.RoundingMode;
  */
 public class BigDecimalUtils {
 
-    
     /**
-     * 计算 a / b，保留两位小数 拉拉hahaaaa
+     * 计算 a / b，保留两位小数 拉拉hahaaaab
      * @param a
      * @param b
      * @param roundingMode 舍取模式
